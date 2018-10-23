@@ -1,0 +1,10 @@
+rootProject.name = 'Azatrum'
+include 'api'
+include 'app'
+include 'webapps'
+include 'data'
+include 'common'
+include 'domain'
+include 'webapp'
+include 'bdd'
+
